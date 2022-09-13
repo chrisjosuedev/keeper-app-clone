@@ -6,6 +6,9 @@ Google Keeper App Clone.
 
 In the project directory, you can run:
 
+### `npm i`
+Install the node modules.
+
 ### `npm start`
 
 Runs the app in the development mode.\
